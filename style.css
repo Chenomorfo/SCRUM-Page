@@ -1,0 +1,74 @@
+body {
+  background-color: #242424;
+  color: white;
+  text-align: center;
+}
+
+footer {
+  margin-top: 50vh;
+}
+
+.Head {
+  font-size: 15rem;
+  margin-top: calc(50vh - 15rem);
+}
+.Head h1 {
+  font-size: 1.5rem;
+}
+
+span {
+  color: aqua;
+}
+
+.Introduction {
+  margin: 0 auto;
+  margin-top: 50vh;
+  width: 80%;
+  font-size: 2rem;
+}
+.Introduction h1 {
+  font-size: 5rem;
+}
+.Introduction h2 {
+  font-size: 3rem;
+}
+
+.Complements {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50vh;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.Complements div {
+  text-align: left;
+  width: 100%;
+  font-size: 2rem;
+}
+.Complements div h1 {
+  text-align: center;
+  font-size: 4rem;
+}
+
+.Sprint {
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 50vh;
+  font-size: 2rem;
+}
+.Sprint h1 {
+  font-size: 5rem;
+}
+.Sprint ul {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+.Sprint img {
+  width: 80%;
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 20px;
+  margin: auto;
+}
+
+/*# sourceMappingURL=style.css.map */
